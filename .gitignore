@@ -29,3 +29,6 @@ node_modules
 
 #compiled JS files
 lib
+
+#pack
+*.tgz
